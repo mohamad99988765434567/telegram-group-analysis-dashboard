@@ -1,0 +1,33 @@
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# Environment variables and secrets
+.env
+
+# Telegram session file
+*.session
+
+# Local data
+telegram_messages_by_group.json
+
+# Video or large demo files
+*.mp4
+
+# Jupyter or Streamlit cache
+.streamlit/
+.ipynb_checkpoints/
+
+# VS Code workspace files
+.vscode/
