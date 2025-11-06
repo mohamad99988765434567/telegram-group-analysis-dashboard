@@ -1,0 +1,7 @@
+streamlit
+pandas
+telethon
+sentence-transformers
+torch
+arabic-reshaper
+python-bidi
