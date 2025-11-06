@@ -19,8 +19,7 @@ eggs/
 # Telegram session file
 *.session
 
-# Local data
-telegram_messages_by_group.json
+
 
 # Video or large demo files
 *.mp4
